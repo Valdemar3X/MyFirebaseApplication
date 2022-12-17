@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFirebaseApplication</string>
+    <string name="recipe">назва рецепту</string>
+    <string name="ingredients">інгредієнти</string>
+    <string name="read">Read</string>
+    <string name="save">Save</string>
+    <string name="preparation">приготування</string>
+    <string name="recipe_result">Recipe</string>
+    <string name="ingredients_result">Ingredients</string>
+    <string name="preparation_result">Preparation</string>
+
+</resources>
